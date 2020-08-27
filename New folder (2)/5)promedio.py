@@ -8,3 +8,4 @@ for i in n:
     sys.stdout.write(str(y))
 z = a/len(n)
 sys.stdout.write(str(b))
+sys.stdout.write(" ")
