@@ -5,3 +5,4 @@ for i in numero:
         sys.stdout.write(str(i))
     else:
         sys.stdout.write("no es par")
+        sys.stdout.write(" ")
