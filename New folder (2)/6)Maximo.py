@@ -8,3 +8,4 @@ for i in n:
     sys.stdout.write(str(y))
 z = max (array)
 sys.stdout.write("El maximo valor: " + format (str(b)))
+sys.stdout.write(" ")
